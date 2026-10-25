@@ -1,4 +1,4 @@
-```</> Markdown
+</> Markdown
 
 # 🚲 Cyclistic Bike-Share Customer Behavior Analysis
 
@@ -58,6 +58,7 @@ Analyze 12 months of historical ride data to:
 
 ---
 
+```markdown 
 ## Repository Structure
 Cyclistic-Bike-Share-Analysis/
 ├── data/
@@ -69,6 +70,7 @@ Cyclistic-Bike-Share-Analysis/
 ├── report/
 ├── presentation/
 
+```markdown 
 ---
 
 ## Project Workflow
@@ -103,5 +105,3 @@ Cyclistic-Bike-Share-Analysis/
 Julie Geevarghese
 Google Data Analytics Certificate (Aug 2026) 
 AI Software Engineering Student, Maestro College
-
-```markdown 
