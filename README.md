@@ -69,9 +69,8 @@ Cyclistic-Bike-Share-Analysis/
 ├── images/
 ├── report/
 ├── presentation/
-
-```markdown 
 ---
+```
 
 ## Project Workflow
 ✔ Import Data
