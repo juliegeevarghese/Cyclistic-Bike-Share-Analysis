@@ -1,4 +1,4 @@
-</> Markdown
+```</> Markdown
 
 # 🚲 Cyclistic Bike-Share Customer Behavior Analysis
 
@@ -103,3 +103,5 @@ Cyclistic-Bike-Share-Analysis/
 Julie Geevarghese
 Google Data Analytics Certificate (Aug 2026) 
 AI Software Engineering Student, Maestro College
+
+```markdown 
