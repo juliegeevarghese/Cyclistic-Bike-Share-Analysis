@@ -69,18 +69,25 @@ Cyclistic-Bike-Share-Analysis/
 ├── images/
 ├── report/
 ├── presentation/
----
 ```
 
 ## Project Workflow
 ✔ Import Data
+
 ✔ Clean Data
+
 ✔ Validate Records
+
 ✔ Transform Data
+
 ✔ Perform Exploratory Data Analysis
+
 ✔ Build Visualizations
+
 ✔ Develop Business Recommendations
+
 ✔ Create Interactive Dashboard
+
 ✔ Present Findings
 
 ---
@@ -101,6 +108,8 @@ Cyclistic-Bike-Share-Analysis/
 ---
 
 **Author**
-Julie Geevarghese
+*Julie Geevarghese* 
+
 Google Data Analytics Certificate (Aug 2026) 
+
 AI Software Engineering Student, Maestro College
