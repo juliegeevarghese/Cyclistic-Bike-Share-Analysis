@@ -2,37 +2,32 @@
 
 # 🚲 Cyclistic Bike-Share Customer Behavior Analysis
 
-## Google Data Analytics Capstone Project
-
-### Julie Geevarghese
+*Google Data Analytics Capstone Project*
+*Julie Geevarghese*
 
 ---
 
 ## Project Overview
-
 This project analyzes Cyclistic bike-share data to identify differences between annual members and casual riders. The purpose: provide data-driven recommendations to help Cyclistic increase annual memberships.
+*The analysis covers the end-to-end data process—collection, cleaning, transformation, exploration, visualization, and final business recommendations.* 
 
-The analysis covers the end-to-end data process—collection, cleaning, transformation, exploration, visualization, and final business recommendations.
 ---
 
 ## Business Problem
-
 Cyclistic seeks to boost annual memberships. To do so, the marketing team must understand how casual riders and members use the service differently.
+*This study uncovers usage trends and offers strategies to turn casual riders into loyal members.*
 
-This study uncovers usage trends and offers strategies to turn casual riders into loyal members.
 ---
 
 ## Business Task
-
 Analyze 12 months of historical ride data to:
-
 - Compare behaviors of members vs. casual riders
-- Find trends in ride duration, bike type, weekdays, and seasons
-- Suggest marketing strategies to increase memberships
+- Analyze trends: ride duration, bike type, weekdays, and seasons
+- Recommend strategies to increase memberships
+
 ---
 
 ## Tools Used
-
 - R
 - RStudio
 - SQL
@@ -43,11 +38,10 @@ Analyze 12 months of historical ride data to:
 - ggplot2
 - dplyr
 - lubridate
-
+  
 ---
 
 ## Skills Demonstrated
-
 - Data Cleaning
 - Data Validation
 - Data Transformation
@@ -62,7 +56,6 @@ Analyze 12 months of historical ride data to:
 ---
 
 ## Repository Structure
-
 Cyclistic-Bike-Share-Analysis/
 ├── data/
 ├── R/
@@ -76,49 +69,34 @@ Cyclistic-Bike-Share-Analysis/
 ---
 
 ## Project Workflow
-
 ✔ Import Data
-
 ✔ Clean Data
-
 ✔ Validate Records
-
 ✔ Transform Data
-
 ✔ Perform Exploratory Data Analysis
-
 ✔ Build Visualizations
-
 ✔ Develop Business Recommendations
-
 ✔ Create Interactive Dashboard
-
 ✔ Present Findings
 
 ---
 
 ## Key Findings
-
-(Coming Soon)
+*(Coming Soon)*
 
 ---
 
 ## Business Recommendations
-
-(Coming Soon)
+*(Coming Soon)*
 
 ---
 
 ## Dashboard Preview
-
-(Coming Soon)
+*(Coming Soon)*
 
 ---
 
-## Author
-
-**Julie Geevarghese**
-
+**Author**
+Julie Geevarghese
 Google Data Analytics Certificate (Aug 2026) 
-
 AI Software Engineering Student, Maestro College
