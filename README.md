@@ -3,7 +3,8 @@
 # 🚲 Cyclistic Bike-Share Customer Behavior Analysis
 
 *Google Data Analytics Capstone Project*
-*Julie Geevarghese*
+
+**Julie Geevarghese**
 
 ---
 
