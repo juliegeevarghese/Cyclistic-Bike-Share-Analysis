@@ -10,28 +10,25 @@
 
 ## Project Overview
 
-This project analyzes historical Cyclistic bike-share data to identify behavioral differences between annual members and casual riders. The goal is to provide data-driven recommendations that support business decisions aimed at increasing annual memberships.
+This project analyzes Cyclistic bike-share data to identify differences between annual members and casual riders. The purpose: provide data-driven recommendations to help Cyclistic increase annual memberships.
 
-This case study follows the complete data analysis process, including data collection, cleaning, transformation, exploratory data analysis, visualization, and business recommendations.
-
+The analysis covers the end-to-end data process—collection, cleaning, transformation, exploration, visualization, and final business recommendations.
 ---
 
 ## Business Problem
 
-Cyclistic, a fictional bike-share company based in Chicago, wants to increase the number of annual memberships. To accomplish this, the marketing team needs to better understand how casual riders and annual members use the service differently.
+Cyclistic seeks to boost annual memberships. To do so, the marketing team must understand how casual riders and members use the service differently.
 
-This analysis identifies trends in customer behavior and provides recommendations for converting casual riders into annual members.
-
+This study uncovers usage trends and offers strategies to turn casual riders into loyal members.
 ---
 
 ## Business Task
 
-Analyze twelve months of historical bike-share data to answer:
+Analyze 12 months of historical ride data to:
 
-- How do annual members and casual riders use Cyclistic bikes differently?
-- What trends exist across ride duration, bike type, weekday usage, and seasonal patterns?
-- What marketing strategies could increase annual memberships?
-
+- Compare behaviors of members vs. casual riders
+- Find trends in ride duration, bike type, weekdays, and seasons
+- Suggest marketing strategies to increase memberships
 ---
 
 ## Tools Used
@@ -40,8 +37,8 @@ Analyze twelve months of historical bike-share data to answer:
 - RStudio
 - SQL
 - Excel
-- Tableau
 - Google Sheets
+- Tableau
 - tidyverse
 - ggplot2
 - dplyr
@@ -56,28 +53,25 @@ Analyze twelve months of historical bike-share data to answer:
 - Data Transformation
 - Exploratory Data Analysis (EDA)
 - Data Visualization
-- Business Analysis
 - Dashboard Development
+- Business Analysis
 - Statistical Analysis
-- Technical Documentation
 - Stakeholder Communication
+- Technical Documentation
 
 ---
 
 ## Repository Structure
 
-```text
 Cyclistic-Bike-Share-Analysis/
-
-data/
-R/
-SQL/
-Excel/
-Tableau/
-images/
-report/
-presentation/
-```
+├── data/
+├── R/
+├── SQL/
+├── Excel/
+├── Tableau/
+├── images/
+├── report/
+├── presentation/
 
 ---
 
@@ -125,6 +119,6 @@ presentation/
 
 **Julie Geevarghese**
 
-Google Data Analytics Certificate
+Google Data Analytics Certificate (Aug 2026) 
 
-AI Software Engineering Student
+AI Software Engineering Student, Maestro College
