@@ -106,6 +106,7 @@ Cyclistic-Bike-Share-Analysis/
 ---
 
 **Author**
+
 *Julie Geevarghese* 
 
 Google Data Analytics Certificate (Aug 2026) 
