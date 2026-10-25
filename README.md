@@ -10,12 +10,14 @@
 
 ## Project Overview
 This project analyzes Cyclistic bike-share data to identify differences between annual members and casual riders. The purpose: provide data-driven recommendations to help Cyclistic increase annual memberships.
+
 *The analysis covers the end-to-end data process—collection, cleaning, transformation, exploration, visualization, and final business recommendations.* 
 
 ---
 
 ## Business Problem
 Cyclistic seeks to boost annual memberships. To do so, the marketing team must understand how casual riders and members use the service differently.
+
 *This study uncovers usage trends and offers strategies to turn casual riders into loyal members.*
 
 ---
